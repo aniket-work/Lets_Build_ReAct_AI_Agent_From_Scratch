@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Full Article : [https://medium.com/@learn-simplified/lets-build-multi-agent-rag-from-scratch-6ce61c295111
+Full Article : [https://medium.com/@learn-simplified/lets-build-re-act-ai-agent-from-scratch-41263fd6a983
 
 In the ever-evolving world of finance, the ability to quickly interpret data and make informed decisions is a game-changer. Imagine having an AI-powered assistant that can analyze stock prices, calculate financial ratios, and even gauge market sentiment - all in real-time. This article takes you on a journey to build just that: an intelligent financial agent that seamlessly blends AI with finance to deliver insights that matter. Whether you're curious about AI's potential in business or looking to sharpen your financial tools, this guide offers a unique, hands-on approach to making AI work for you.
 
