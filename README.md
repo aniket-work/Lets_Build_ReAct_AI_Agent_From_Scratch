@@ -5,15 +5,13 @@
 
 Full Article : [https://medium.com/@learn-simplified/lets-build-multi-agent-rag-from-scratch-6ce61c295111
 
-Coordinating Agents to Retrieve, Process, and Deliver Data Efficiently
+In the ever-evolving world of finance, the ability to quickly interpret data and make informed decisions is a game-changer. Imagine having an AI-powered assistant that can analyze stock prices, calculate financial ratios, and even gauge market sentiment - all in real-time. This article takes you on a journey to build just that: an intelligent financial agent that seamlessly blends AI with finance to deliver insights that matter. Whether you're curious about AI's potential in business or looking to sharpen your financial tools, this guide offers a unique, hands-on approach to making AI work for you.
 
 ## What's This Project About?
-This article is all about building a Multi Agent Retrieval-Augmented Generation (RAG) system from the ground up. Think of it as creating a team of AI assistants that work together to answer complex questions. We'll walk through the process of setting up a knowledge base, teaching our AI how to understand and search through this information, and then use it to generate smart, context-aware answers. 
-It's like we're building a bridge between vast amounts of data and human-like understanding. We'll cover everything from loading documents, creating embeddings (that's AI-speak for turning words into numbers the computer can understand), setting up a vector store (imagine a super-efficient filing cabinet for our AI), and finally, bringing it all together with an AI agent that can think, retrieve, and respond.
+This article provides a comprehensive overview of building a financial analysis tool powered by AI. It explains the entire process, from setting up a financial agent to fetching and analyzing stock data, calculating financial ratios, and assessing market sentiment. By diving into the code and its functionality, readers will understand how different components work together to create a robust AI-driven solution. Whether you're a developer interested in AI applications or a business professional looking to understand how AI can enhance financial analysis, this article will guide you through the essentials.
 
 ## Why Use This Project?
-In today's fast-paced business world, information is king. But with the sheer volume of data out there, finding the right information quickly can be like searching for a needle in a haystack. That's where AI comes in, and that's why this article is so important. Through the lens of a fictional company, we'll show you how to implement a system that can revolutionize how businesses handle information and make decisions. 
-Imagine having an AI assistant that can instantly pull relevant information from your company's entire knowledge base and use it to answer complex questions or solve problems. It's not just about finding information faster; it's about making smarter, more informed decisions. Whether you're in tech, finance, healthcare, or any other industry, understanding and implementing these AI techniques can give your business a significant competitive edge.
+Artificial intelligence is transforming industries, and the business sector is no exception. In today's competitive landscape, companies that effectively utilize AI to analyze data have a distinct advantage. This article shows how AI can be implemented within a business setting, specifically focusing on financial analysis. By exploring a fictional company's use of AI, the article demonstrates how to leverage technology for informed decision-making, making it a must-read for anyone interested in the intersection of finance and AI.
 
 ## Architecture
 ![Design Diagram](design_docs/design.png)
